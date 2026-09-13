@@ -1,0 +1,11 @@
+{
+  "name": "Nurture Pathway",
+  "short_name": "Nurture Pathway",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FAF7F2",
+  "theme_color": "#A8B5A0",
+  "description": "Understand your child. Nurture their potential. Build a purposeful pathway.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}

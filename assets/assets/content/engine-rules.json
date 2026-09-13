@@ -1,0 +1,19 @@
+{
+ "version": 1,
+ "cap": 3,
+ "cap_when_week_is_full": 1,
+ "roles": [
+  "deepen a strength",
+  "support an area",
+  "character"
+ ],
+ "rules": [
+  "Three recommendations a week, and never a fourth — however good the week has been.",
+  "When the check-in says the week is already full, the cap drops to one and the app says why.",
+  "Nothing is suggested that costs more minutes than the capacity answers allow.",
+  "A recommendation is not repeated within four weeks.",
+  "Every recommendation names the pillar and the skill it is aimed at.",
+  "Nothing therapeutic, nothing diagnostic. These are ordinary play and family suggestions.",
+  "Nothing that needs buying. 'You will need' may only name what is already in most homes."
+ ]
+}

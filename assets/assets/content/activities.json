@@ -1,0 +1,1051 @@
+{
+ "version": 1,
+ "count": 76,
+ "activities": [
+  {
+   "id": "A001",
+   "title": "Puddle route walk",
+   "pillar": "Movement",
+   "minutes": 20,
+   "where": "outdoors",
+   "bands": [
+    "2-3",
+    "3-5",
+    "5-7",
+    "7-11"
+   ],
+   "what_to_do": "Walk a route chosen for its obstacles — puddles, kerbs, low walls, steps.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A002",
+   "title": "Twenty throws and catches",
+   "pillar": "Movement",
+   "minutes": 10,
+   "where": "outdoors",
+   "bands": [
+    "3-5",
+    "5-7",
+    "7-11",
+    "11-13"
+   ],
+   "what_to_do": "Twenty throws, counted aloud, stopping at twenty whether or not it is going well.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A003",
+   "title": "Ten minutes of block play",
+   "pillar": "Movement",
+   "minutes": 10,
+   "where": "indoors",
+   "bands": [
+    "2-3",
+    "3-5",
+    "5-7"
+   ],
+   "what_to_do": "Build, knock down, rebuild. The rebuilding is the part that counts.",
+   "you_will_need": "Blocks or boxes"
+  },
+  {
+   "id": "A004",
+   "title": "Bare feet on grass",
+   "pillar": "Movement",
+   "minutes": 10,
+   "where": "outdoors",
+   "bands": [
+    "0-2",
+    "2-3",
+    "3-5"
+   ],
+   "what_to_do": "Ten minutes outside with nothing on their feet.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A005",
+   "title": "Cook something with a knife",
+   "pillar": "Movement",
+   "minutes": 30,
+   "where": "indoors",
+   "bands": [
+    "5-7",
+    "7-11",
+    "11-13"
+   ],
+   "what_to_do": "A real task with a real blade, supervised from start to finish.",
+   "you_will_need": "A blunt knife and something soft"
+  },
+  {
+   "id": "A006",
+   "title": "Scissors and an old magazine",
+   "pillar": "Movement",
+   "minutes": 15,
+   "where": "indoors",
+   "bands": [
+    "2-3",
+    "3-5",
+    "5-7"
+   ],
+   "what_to_do": "Cutting anything they like out of something they are allowed to destroy.",
+   "you_will_need": "Safety scissors"
+  },
+  {
+   "id": "A007",
+   "title": "Best bit, worst bit",
+   "pillar": "Communication",
+   "minutes": 10,
+   "where": "indoors",
+   "bands": [
+    "3-5",
+    "5-7",
+    "7-11",
+    "11-13"
+   ],
+   "what_to_do": "Each person says one good and one hard thing about the day. The adult goes first.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A008",
+   "title": "Tell someone else what happened",
+   "pillar": "Communication",
+   "minutes": 5,
+   "where": "anywhere",
+   "bands": [
+    "2-3",
+    "3-5",
+    "5-7",
+    "7-11"
+   ],
+   "what_to_do": "They retell one thing from the day to a person who was not there.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A009",
+   "title": "Give the directions",
+   "pillar": "Communication",
+   "minutes": 20,
+   "where": "outdoors",
+   "bands": [
+    "5-7",
+    "7-11",
+    "11-13"
+   ],
+   "what_to_do": "They direct you somewhere familiar and you do exactly as told.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A010",
+   "title": "Explain it to the toy",
+   "pillar": "Communication",
+   "minutes": 10,
+   "where": "indoors",
+   "bands": [
+    "2-3",
+    "3-5",
+    "5-7"
+   ],
+   "what_to_do": "They explain a game or a rule to a teddy while you listen.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A011",
+   "title": "Two minutes, no notes",
+   "pillar": "Communication",
+   "minutes": 10,
+   "where": "indoors",
+   "bands": [
+    "7-11",
+    "11-13"
+   ],
+   "what_to_do": "They talk for two timed minutes about something they care about.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A012",
+   "title": "Name the feeling before the nap",
+   "pillar": "Feelings",
+   "minutes": 5,
+   "where": "indoors",
+   "bands": [
+    "0-2",
+    "2-3",
+    "3-5",
+    "5-7"
+   ],
+   "what_to_do": "Say aloud what you think they are feeling, before rest time.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A013",
+   "title": "Lose a game on purpose",
+   "pillar": "Feelings",
+   "minutes": 15,
+   "where": "indoors",
+   "bands": [
+    "3-5",
+    "5-7",
+    "7-11"
+   ],
+   "what_to_do": "Play something you will win, and stay with them through losing.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A014",
+   "title": "The rewind",
+   "pillar": "Feelings",
+   "minutes": 10,
+   "where": "indoors",
+   "bands": [
+    "3-5",
+    "5-7",
+    "7-11",
+    "11-13"
+   ],
+   "what_to_do": "After a wobble, retell it calmly: what happened, what it felt like, what helped.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A015",
+   "title": "Angry on paper",
+   "pillar": "Feelings",
+   "minutes": 10,
+   "where": "indoors",
+   "bands": [
+    "3-5",
+    "5-7",
+    "7-11"
+   ],
+   "what_to_do": "Paper and a pen, and permission to scribble the feeling out.",
+   "you_will_need": "Paper"
+  },
+  {
+   "id": "A016",
+   "title": "Twenty minutes before answering",
+   "pillar": "Feelings",
+   "minutes": 20,
+   "where": "anywhere",
+   "bands": [
+    "7-11",
+    "11-13"
+   ],
+   "what_to_do": "Agree not to reply to something that landed hard for twenty minutes.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A017",
+   "title": "Pack your own bag",
+   "pillar": "Independence",
+   "minutes": 10,
+   "where": "indoors",
+   "bands": [
+    "5-7",
+    "7-11",
+    "11-13"
+   ],
+   "what_to_do": "They pack from a list they can read, and nobody checks it.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A018",
+   "title": "Their own cup and a small jug",
+   "pillar": "Independence",
+   "minutes": 5,
+   "where": "indoors",
+   "bands": [
+    "2-3",
+    "3-5",
+    "5-7"
+   ],
+   "what_to_do": "Pouring their own drink at meals, spills included.",
+   "you_will_need": "A small jug"
+  },
+  {
+   "id": "A019",
+   "title": "Make the same meal each week",
+   "pillar": "Independence",
+   "minutes": 30,
+   "where": "indoors",
+   "bands": [
+    "5-7",
+    "7-11",
+    "11-13"
+   ],
+   "what_to_do": "One simple meal, repeated weekly until it belongs to them.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A020",
+   "title": "The errand alone",
+   "pillar": "Independence",
+   "minutes": 20,
+   "where": "outdoors",
+   "bands": [
+    "7-11",
+    "11-13"
+   ],
+   "what_to_do": "One short trip done without you.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A021",
+   "title": "Dressed before breakfast",
+   "pillar": "Independence",
+   "minutes": 15,
+   "where": "indoors",
+   "bands": [
+    "2-3",
+    "3-5",
+    "5-7"
+   ],
+   "what_to_do": "Clothes out the night before, dressing before food, no clock running.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A022",
+   "title": "Invite one friend, not three",
+   "pillar": "Relationships",
+   "minutes": 90,
+   "where": "indoors",
+   "bands": [
+    "3-5",
+    "5-7",
+    "7-11",
+    "11-13"
+   ],
+   "what_to_do": "One friend, at home, for a short visit.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A023",
+   "title": "Play alongside another child",
+   "pillar": "Relationships",
+   "minutes": 30,
+   "where": "anywhere",
+   "bands": [
+    "2-3",
+    "3-5"
+   ],
+   "what_to_do": "Near another child with similar toys, and no requirement to share.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A024",
+   "title": "Host it themselves",
+   "pillar": "Relationships",
+   "minutes": 90,
+   "where": "indoors",
+   "bands": [
+    "7-11",
+    "11-13"
+   ],
+   "what_to_do": "They plan and run an activity for a friend from start to finish.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A025",
+   "title": "Write to someone far away",
+   "pillar": "Relationships",
+   "minutes": 15,
+   "where": "indoors",
+   "bands": [
+    "5-7",
+    "7-11",
+    "11-13"
+   ],
+   "what_to_do": "A card or drawing for someone they do not see often.",
+   "you_will_need": "A card and a stamp"
+  },
+  {
+   "id": "A026",
+   "title": "One story with a rhyme in it",
+   "pillar": "Reading and Writing",
+   "minutes": 10,
+   "where": "indoors",
+   "bands": [
+    "0-2",
+    "2-3",
+    "3-5",
+    "5-7"
+   ],
+   "what_to_do": "Any book where they can finish the line for you.",
+   "you_will_need": "A rhyming book"
+  },
+  {
+   "id": "A027",
+   "title": "Read to the dog",
+   "pillar": "Reading and Writing",
+   "minutes": 10,
+   "where": "indoors",
+   "bands": [
+    "5-7",
+    "7-11"
+   ],
+   "what_to_do": "Reading aloud to a pet, a toy or a patient sibling.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A028",
+   "title": "You read one, I read one",
+   "pillar": "Reading and Writing",
+   "minutes": 15,
+   "where": "indoors",
+   "bands": [
+    "5-7",
+    "7-11"
+   ],
+   "what_to_do": "Alternate pages so the story keeps moving.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A029",
+   "title": "Twenty minutes, their choice",
+   "pillar": "Reading and Writing",
+   "minutes": 20,
+   "where": "anywhere",
+   "bands": [
+    "7-11",
+    "11-13"
+   ],
+   "what_to_do": "Anything they choose, including comics and match reports.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A030",
+   "title": "Write a real letter",
+   "pillar": "Reading and Writing",
+   "minutes": 20,
+   "where": "indoors",
+   "bands": [
+    "5-7",
+    "7-11",
+    "11-13"
+   ],
+   "what_to_do": "To a real person who will really reply.",
+   "you_will_need": "Paper and a stamp"
+  },
+  {
+   "id": "A031",
+   "title": "Set the table",
+   "pillar": "Numbers and Patterns",
+   "minutes": 10,
+   "where": "indoors",
+   "bands": [
+    "3-5",
+    "5-7",
+    "7-11"
+   ],
+   "what_to_do": "They work out how many plates, cups and forks are needed.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A032",
+   "title": "Pay with the coins",
+   "pillar": "Numbers and Patterns",
+   "minutes": 10,
+   "where": "outdoors",
+   "bands": [
+    "5-7",
+    "7-11",
+    "11-13"
+   ],
+   "what_to_do": "They hand over real money and work out the change.",
+   "you_will_need": "Coins"
+  },
+  {
+   "id": "A033",
+   "title": "Double the recipe",
+   "pillar": "Numbers and Patterns",
+   "minutes": 20,
+   "where": "indoors",
+   "bands": [
+    "5-7",
+    "7-11",
+    "11-13"
+   ],
+   "what_to_do": "Halve or double something and work out the new amounts together.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A034",
+   "title": "Guess then measure",
+   "pillar": "Numbers and Patterns",
+   "minutes": 15,
+   "where": "indoors",
+   "bands": [
+    "5-7",
+    "7-11",
+    "11-13"
+   ],
+   "what_to_do": "Guess a length or a weight, then measure it.",
+   "you_will_need": "A tape or scales"
+  },
+  {
+   "id": "A035",
+   "title": "Count the stairs",
+   "pillar": "Numbers and Patterns",
+   "minutes": 3,
+   "where": "indoors",
+   "bands": [
+    "0-2",
+    "2-3"
+   ],
+   "what_to_do": "Count aloud on the stairs, the same way every time.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A036",
+   "title": "Grow one fast thing",
+   "pillar": "Understanding the World",
+   "minutes": 5,
+   "where": "indoors",
+   "bands": [
+    "2-3",
+    "3-5",
+    "5-7",
+    "7-11"
+   ],
+   "what_to_do": "Plant cress or beans and check them daily.",
+   "you_will_need": "Seeds and a pot"
+  },
+  {
+   "id": "A037",
+   "title": "Dig a patch of soil",
+   "pillar": "Understanding the World",
+   "minutes": 20,
+   "where": "outdoors",
+   "bands": [
+    "2-3",
+    "3-5",
+    "5-7"
+   ],
+   "what_to_do": "A patch of ground and something to dig with.",
+   "you_will_need": "A trowel"
+  },
+  {
+   "id": "A038",
+   "title": "Draw the map of here",
+   "pillar": "Understanding the World",
+   "minutes": 20,
+   "where": "indoors",
+   "bands": [
+    "5-7",
+    "7-11",
+    "11-13"
+   ],
+   "what_to_do": "Draw your street or the route to school together.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A039",
+   "title": "Take something apart",
+   "pillar": "Understanding the World",
+   "minutes": 30,
+   "where": "indoors",
+   "bands": [
+    "5-7",
+    "7-11",
+    "11-13"
+   ],
+   "what_to_do": "Something broken and safe, dismantled properly.",
+   "you_will_need": "A screwdriver"
+  },
+  {
+   "id": "A040",
+   "title": "Follow one news story",
+   "pillar": "Understanding the World",
+   "minutes": 10,
+   "where": "indoors",
+   "bands": [
+    "7-11",
+    "11-13"
+   ],
+   "what_to_do": "Pick a story and follow it for a fortnight.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A041",
+   "title": "The box is a boat",
+   "pillar": "Creativity",
+   "minutes": 30,
+   "where": "indoors",
+   "bands": [
+    "2-3",
+    "3-5",
+    "5-7"
+   ],
+   "what_to_do": "A big box, and nothing said about what it is.",
+   "you_will_need": "A big box"
+  },
+  {
+   "id": "A042",
+   "title": "Junk model",
+   "pillar": "Creativity",
+   "minutes": 30,
+   "where": "indoors",
+   "bands": [
+    "3-5",
+    "5-7",
+    "7-11"
+   ],
+   "what_to_do": "Packaging, tape, and no instructions.",
+   "you_will_need": "Recycling and tape"
+  },
+  {
+   "id": "A043",
+   "title": "Draw the story you just read",
+   "pillar": "Creativity",
+   "minutes": 15,
+   "where": "indoors",
+   "bands": [
+    "2-3",
+    "3-5",
+    "5-7",
+    "7-11"
+   ],
+   "what_to_do": "After a book, draw the part they liked.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A044",
+   "title": "The six-box comic",
+   "pillar": "Creativity",
+   "minutes": 25,
+   "where": "indoors",
+   "bands": [
+    "5-7",
+    "7-11",
+    "11-13"
+   ],
+   "what_to_do": "Six boxes, one story, words optional.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A045",
+   "title": "Learn one riff",
+   "pillar": "Creativity",
+   "minutes": 15,
+   "where": "indoors",
+   "bands": [
+    "7-11",
+    "11-13"
+   ],
+   "what_to_do": "One short piece of music, learned properly, on anything.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A046",
+   "title": "Make up the verse",
+   "pillar": "Creativity",
+   "minutes": 10,
+   "where": "anywhere",
+   "bands": [
+    "2-3",
+    "3-5",
+    "5-7",
+    "7-11"
+   ],
+   "what_to_do": "Take a song they know and change the words together.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A047",
+   "title": "Say the sound back",
+   "pillar": "Communication",
+   "minutes": 5,
+   "where": "anywhere",
+   "bands": [
+    "0-2",
+    "2-3"
+   ],
+   "what_to_do": "Repeat their babble back and leave a gap long enough to feel awkward.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A048",
+   "title": "Name what they are looking at",
+   "pillar": "Communication",
+   "minutes": 5,
+   "where": "anywhere",
+   "bands": [
+    "0-2",
+    "2-3"
+   ],
+   "what_to_do": "Follow their eyes and say the thing. One word, no sentence.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A049",
+   "title": "Sing the ordinary",
+   "pillar": "Creativity",
+   "minutes": 5,
+   "where": "anywhere",
+   "bands": [
+    "0-2",
+    "2-3"
+   ],
+   "what_to_do": "Sing what you are doing rather than saying it.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A050",
+   "title": "One pot of paint",
+   "pillar": "Creativity",
+   "minutes": 15,
+   "where": "indoors",
+   "bands": [
+    "0-2",
+    "2-3",
+    "3-5"
+   ],
+   "what_to_do": "One colour, big paper, hands allowed.",
+   "you_will_need": "Paint and paper"
+  },
+  {
+   "id": "A051",
+   "title": "Bang something together",
+   "pillar": "Creativity",
+   "minutes": 10,
+   "where": "indoors",
+   "bands": [
+    "0-2",
+    "2-3"
+   ],
+   "what_to_do": "Wooden spoons, pans, boxes — and you joining in rather than supervising.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A052",
+   "title": "Let them hold the spoon",
+   "pillar": "Independence",
+   "minutes": 10,
+   "where": "indoors",
+   "bands": [
+    "0-2",
+    "2-3"
+   ],
+   "what_to_do": "Their own spoon at mealtimes, even though it will not work yet.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A053",
+   "title": "One job at bathtime",
+   "pillar": "Independence",
+   "minutes": 5,
+   "where": "indoors",
+   "bands": [
+    "0-2",
+    "2-3",
+    "3-5"
+   ],
+   "what_to_do": "One part of the routine that is genuinely theirs.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A054",
+   "title": "Pause before helping",
+   "pillar": "Independence",
+   "minutes": 3,
+   "where": "anywhere",
+   "bands": [
+    "0-2",
+    "2-3",
+    "3-5",
+    "5-7"
+   ],
+   "what_to_do": "Count to five before stepping in on anything they are struggling with.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A055",
+   "title": "Face to face, no screen",
+   "pillar": "Relationships",
+   "minutes": 10,
+   "where": "indoors",
+   "bands": [
+    "0-2",
+    "2-3"
+   ],
+   "what_to_do": "Ten minutes of nothing but looking at each other and copying faces.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A056",
+   "title": "Peekaboo until they stop",
+   "pillar": "Relationships",
+   "minutes": 10,
+   "where": "indoors",
+   "bands": [
+    "0-2",
+    "2-3"
+   ],
+   "what_to_do": "Play until they are bored rather than until you are.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A057",
+   "title": "Watch other children",
+   "pillar": "Relationships",
+   "minutes": 15,
+   "where": "outdoors",
+   "bands": [
+    "0-2",
+    "2-3",
+    "3-5"
+   ],
+   "what_to_do": "Sit where other children are playing, and just watch together.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A058",
+   "title": "Out in the weather",
+   "pillar": "Understanding the World",
+   "minutes": 15,
+   "where": "outdoors",
+   "bands": [
+    "0-2",
+    "2-3",
+    "3-5"
+   ],
+   "what_to_do": "Go outside in whatever it is doing, and name it.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A059",
+   "title": "The same short walk",
+   "pillar": "Understanding the World",
+   "minutes": 20,
+   "where": "outdoors",
+   "bands": [
+    "0-2",
+    "2-3",
+    "3-5"
+   ],
+   "what_to_do": "The same route regularly, pointing at the same things.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A060",
+   "title": "What does it do?",
+   "pillar": "Understanding the World",
+   "minutes": 10,
+   "where": "indoors",
+   "bands": [
+    "0-2",
+    "2-3",
+    "3-5"
+   ],
+   "what_to_do": "Let them work taps, switches, lids and catches.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A061",
+   "title": "Floor time, nothing propping",
+   "pillar": "Movement",
+   "minutes": 10,
+   "where": "indoors",
+   "bands": [
+    "0-2",
+    "2-3"
+   ],
+   "what_to_do": "Ten minutes flat on the floor beside them, no seat, no support.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A062",
+   "title": "The same book again",
+   "pillar": "Reading and Writing",
+   "minutes": 10,
+   "where": "indoors",
+   "bands": [
+    "0-2",
+    "2-3",
+    "3-5"
+   ],
+   "what_to_do": "Read the one they keep choosing, as often as they choose it.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A063",
+   "title": "Point at the words",
+   "pillar": "Reading and Writing",
+   "minutes": 10,
+   "where": "indoors",
+   "bands": [
+    "0-2",
+    "2-3",
+    "3-5",
+    "5-7"
+   ],
+   "what_to_do": "Run a finger under the words as you read them.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A064",
+   "title": "Leave the last word",
+   "pillar": "Reading and Writing",
+   "minutes": 10,
+   "where": "indoors",
+   "bands": [
+    "2-3",
+    "3-5",
+    "5-7"
+   ],
+   "what_to_do": "Read a rhyme they know and stop before the rhyming word.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A065",
+   "title": "Two of everything",
+   "pillar": "Numbers and Patterns",
+   "minutes": 5,
+   "where": "anywhere",
+   "bands": [
+    "0-2",
+    "2-3"
+   ],
+   "what_to_do": "Hand things over in twos, saying “two” as you do.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A066",
+   "title": "Big one, little one",
+   "pillar": "Numbers and Patterns",
+   "minutes": 10,
+   "where": "indoors",
+   "bands": [
+    "2-3",
+    "3-5",
+    "5-7"
+   ],
+   "what_to_do": "Sort the washing, the shoes or the spoons into big and little.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A067",
+   "title": "Name it before the nap",
+   "pillar": "Feelings",
+   "minutes": 3,
+   "where": "indoors",
+   "bands": [
+    "0-2",
+    "2-3"
+   ],
+   "what_to_do": "As they get tired, say what you see. “You’re tired. It’s hard.”",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A068",
+   "title": "Wait for the sand timer",
+   "pillar": "Feelings",
+   "minutes": 5,
+   "where": "indoors",
+   "bands": [
+    "2-3",
+    "3-5",
+    "5-7"
+   ],
+   "what_to_do": "A two-minute timer for turns, with you sitting alongside while it runs.",
+   "you_will_need": "A sand timer"
+  },
+  {
+   "id": "A069",
+   "title": "Something neither of you can do",
+   "pillar": "Movement",
+   "minutes": 45,
+   "where": "anywhere",
+   "bands": [
+    "7-11",
+    "11-13"
+   ],
+   "what_to_do": "Try a sport or activity that is new to both of you, together.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A070",
+   "title": "Walk it instead of driving",
+   "pillar": "Movement",
+   "minutes": 30,
+   "where": "outdoors",
+   "bands": [
+    "7-11",
+    "11-13"
+   ],
+   "what_to_do": "One journey a week done on foot or by bike that would normally be a car.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A071",
+   "title": "Read the same thing and argue",
+   "pillar": "Reading and Writing",
+   "minutes": 30,
+   "where": "indoors",
+   "bands": [
+    "7-11",
+    "11-13"
+   ],
+   "what_to_do": "Read the same book or article and disagree about it.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A072",
+   "title": "Two sources, one story",
+   "pillar": "Understanding the World",
+   "minutes": 20,
+   "where": "indoors",
+   "bands": [
+    "11-13"
+   ],
+   "what_to_do": "Two accounts of the same event, and find where they differ.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A073",
+   "title": "Is that number honest?",
+   "pillar": "Numbers and Patterns",
+   "minutes": 20,
+   "where": "indoors",
+   "bands": [
+    "11-13"
+   ],
+   "what_to_do": "Take a statistic from an advert and pull it apart together.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A074",
+   "title": "Say no to a friend",
+   "pillar": "Relationships",
+   "minutes": 15,
+   "where": "anywhere",
+   "bands": [
+    "7-11",
+    "11-13"
+   ],
+   "what_to_do": "Rehearse turning down something a friend wants, without falling out.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A075",
+   "title": "The long project",
+   "pillar": "Creativity",
+   "minutes": 45,
+   "where": "indoors",
+   "bands": [
+    "7-11",
+    "11-13"
+   ],
+   "what_to_do": "One thing that takes more than one sitting, kept somewhere they can see it.",
+   "you_will_need": "Nothing you do not have"
+  },
+  {
+   "id": "A076",
+   "title": "Manage one thing all week",
+   "pillar": "Independence",
+   "minutes": 20,
+   "where": "indoors",
+   "bands": [
+    "11-13"
+   ],
+   "what_to_do": "Hand over a recurring responsibility entirely, not task by task.",
+   "you_will_need": "Nothing you do not have"
+  }
+ ]
+}
