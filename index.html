@@ -4,15 +4,52 @@
   <base href="/nurture-pathway-app/">
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="Nurture Pathway">
+  <meta name="description" content="A private family journal. Understand your child and nurture their potential.">
+  <meta name="theme-color" content="#8FA382">
+  <link rel="icon" type="image/png" sizes="32x32" href="nurture-icon-32.png">
+  <link rel="icon" type="image/svg+xml" href="nurture-monogram.svg">
+  <link rel="apple-touch-icon" sizes="180x180" href="nurture-icon-180.png">
   <meta name="viewport"
-        content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        content="width=device-width, initial-scale=1.0">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-title" content="Nurture Pathway">
   <title>Nurture Pathway</title>
   <link rel="manifest" href="manifest.json">
+  <style>
+    @font-face {font-family:Nunito;src:url(assets/assets/fonts/Nunito-800.ttf) format('truetype');font-weight:800;font-display:swap}
+    html,body {margin:0;background:#FAF7F2;color:#4A453E}
+    #brand-loading {position:fixed;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:24px;font-family:system-ui,sans-serif;background:#FAF7F2;z-index:0}
+    .brand-lockup {display:flex;gap:18px;align-items:center;max-width:100%}
+    .brand-lockup img {width:84px;height:76px}
+    .brand-name {font:800 36px/1 Nunito,system-ui,sans-serif;letter-spacing:-1px}
+    #brand-status {margin-top:32px;font-size:14px;text-align:center}
+    #brand-retry {color:#4A453E;background:#E8DCC4;border:0;border-radius:12px;padding:14px 22px;font:inherit;cursor:pointer}
+    #brand-retry:focus-visible {outline:3px solid #4A453E;outline-offset:4px}
+  </style>
 </head>
 <body>
-  <script src="flutter_bootstrap.js" async></script>
+  <div id="brand-loading" role="status" aria-live="polite">
+    <div class="brand-lockup" aria-label="Nurture Pathway">
+      <img src="nurture-monogram.svg" alt="" width="84" height="76">
+      <div class="brand-name" aria-hidden="true">Nurture<br>Pathway</div>
+    </div>
+    <p id="brand-status">Opening your family journal…</p>
+    <button id="brand-retry" hidden onclick="window.location.reload()">Try again</button>
+  </div>
+  <noscript><p style="position:fixed;bottom:24px;left:24px;right:24px;text-align:center">Enable JavaScript to open Nurture Pathway.</p></noscript>
+  <script>
+    function brandLoadFailed() {
+      const status = document.getElementById('brand-status');
+      if (status) status.textContent = 'Your journal is taking longer to open. Check your connection and try again.';
+      const retry = document.getElementById('brand-retry');
+      if (retry) retry.hidden = false;
+    }
+    const brandTimeout = window.setTimeout(brandLoadFailed, 30000);
+    window.addEventListener('flutter-first-frame', function () {
+      window.clearTimeout(brandTimeout);
+      document.getElementById('brand-loading')?.remove();
+    }, {once: true});
+  </script>
+  <script src="flutter_bootstrap.js" async onerror="brandLoadFailed()"></script>
 </body>
 </html>

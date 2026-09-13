@@ -1,11 +1,25 @@
 {
   "name": "Nurture Pathway",
-  "short_name": "Nurture Pathway",
+  "short_name": "Nurture",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#FAF7F2",
-  "theme_color": "#A8B5A0",
+  "theme_color": "#8FA382",
   "description": "Understand your child. Nurture their potential. Build a purposeful pathway.",
   "orientation": "portrait-primary",
-  "prefer_related_applications": false
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "nurture-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "nurture-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
 }
