@@ -3,6 +3,14 @@
 <head>
   <base href="/nurture-pathway-app/">
   <meta charset="UTF-8">
+  <!-- What this page may load and talk to: itself, and the one backend.
+       Scripts stay inline for the loader; the renderer's WebAssembly needs
+       wasm-unsafe-eval; recordings are blob: while they are being made and
+       signed backend URLs once stored; the renderer fetches fallback glyphs
+       (emoji and scripts the bundled fonts lack) from Google's font host.
+       Nothing else, from anywhere. -->
+  <meta http-equiv="Content-Security-Policy"
+        content="default-src 'self'; script-src 'self' 'unsafe-inline' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; font-src 'self' data: https://fonts.gstatic.com; img-src 'self' data: blob: https://yhfykdgeqrvdffvsryas.supabase.co; media-src 'self' blob: https://yhfykdgeqrvdffvsryas.supabase.co; connect-src 'self' https://yhfykdgeqrvdffvsryas.supabase.co wss://yhfykdgeqrvdffvsryas.supabase.co https://fonts.gstatic.com; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <meta name="description" content="A private family journal. Understand your child and nurture their potential.">
   <meta name="theme-color" content="#8FA382">
